@@ -1,0 +1,20 @@
+{
+  "image": "https://allimages.xyz/1/wl/?id=4tr0XZVBgwSwtDpLfkcM7JfQLQGvnyUw.png",
+  "name": "Bomber Friends #1",
+  "external_url": "",
+  "description": "Get your Bomber Friends now and join the world of bombs. Look for your character with cool hats, outfits, accessories, taunts and salutes. keep an eye out for new characters, costumes, etc.",
+  "collection": "Bomber Friends",
+  "attributes": [{"trait_type":"Clothing","value":"Green Woman"},{"trait_type":"Heads","value":"Face 16"},{"trait_type":"Eyes","value":"Common"},{"trait_type":"Hairs","value":"Men Model 2"},{"trait_type":"Hats","value":"Dog Fox"}],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.001,
+  "quantity": 1,
+  "dna": "3b022cf7fe49146f1e2913f00dc61a9283c702ae",
+  "edition": 1,
+  "date": 1656178944101,
+  "compiler": "Hyperkani"
+}
